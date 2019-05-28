@@ -1,0 +1,25 @@
+C:\Users\jocks\source\repos\TestApp2019_2\TestApp2019_2\bin\Debug\TestApp2019_2.exe.config
+C:\Users\jocks\source\repos\TestApp2019_2\TestApp2019_2\bin\Debug\TestApp2019_2.exe
+C:\Users\jocks\source\repos\TestApp2019_2\TestApp2019_2\bin\Debug\TestApp2019_2.pdb
+C:\Users\jocks\source\repos\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.csprojAssemblyReference.cache
+C:\Users\jocks\source\repos\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.Form1.resources
+C:\Users\jocks\source\repos\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.Properties.Resources.resources
+C:\Users\jocks\source\repos\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.csproj.GenerateResource.cache
+C:\Users\jocks\source\repos\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.csproj.CoreCompileInputs.cache
+C:\Users\jocks\source\repos\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.exe
+C:\Users\jocks\source\repos\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.pdb
+C:\Users\jocks\source\repos\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.LoginForm.resources
+C:\Users\jocks\source\repos\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.EventsForm.resources
+C:\Users\jocks\source\repos\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.AdminForm.resources
+C:\Users\Jolly\Desktop\Coding Projects\TestApp2019_2\TestApp2019_2\bin\Debug\TestApp2019_2.exe.config
+C:\Users\Jolly\Desktop\Coding Projects\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.exe
+C:\Users\Jolly\Desktop\Coding Projects\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.pdb
+C:\Users\Jolly\Desktop\Coding Projects\TestApp2019_2\TestApp2019_2\bin\Debug\TestApp2019_2.exe
+C:\Users\Jolly\Desktop\Coding Projects\TestApp2019_2\TestApp2019_2\bin\Debug\TestApp2019_2.pdb
+C:\Users\Jolly\Desktop\Coding Projects\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.csprojResolveAssemblyReference.cache
+C:\Users\Jolly\Desktop\Coding Projects\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.AdminForm.resources
+C:\Users\Jolly\Desktop\Coding Projects\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.EventsForm.resources
+C:\Users\Jolly\Desktop\Coding Projects\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.Form1.resources
+C:\Users\Jolly\Desktop\Coding Projects\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.LoginForm.resources
+C:\Users\Jolly\Desktop\Coding Projects\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.Properties.Resources.resources
+C:\Users\Jolly\Desktop\Coding Projects\TestApp2019_2\TestApp2019_2\obj\Debug\TestApp2019_2.csproj.GenerateResource.Cache
